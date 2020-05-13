@@ -22,7 +22,7 @@ You can then go to http://localhost:8000 in your browser. See [How do you set up
 
 * `d3` contains the D3 library.
 
-* `data` contains datasets used by the visualizations. The file `countries.json`, which is a GeoJSON file for world countries was derived from data from [Natural Earth](https://www.naturalearthdata.com).
+* `data` contains datasets used by the visualizations. The file `countries.json` is a GeoJSON file for world countries which is derived from data from [Natural Earth](https://www.naturalearthdata.com).
 
 * `main.js` loads the datasets and then calls the visualization functions.
 
